@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SURAJ P S
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java, Javascript and R
+- 🌱 I’m currently learning HTML, CSS, JS, JQuery, React and GIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @surajsuri720@gmail.com
 
